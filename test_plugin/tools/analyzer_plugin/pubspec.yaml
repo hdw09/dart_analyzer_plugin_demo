@@ -1,0 +1,9 @@
+name: test_plugin_bootstrap
+version: 0.0.1
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  test_plugin:
+    path: /Users/david/Desktop/test_plugin
